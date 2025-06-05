@@ -12,3 +12,11 @@
 Total Cost: 493.5 CNY
 
 Estimated Total Cost in USD (1 USD = 7 CNY): ~$70
+
+## why buying parts seperately 
+
+honestly the main reason i'm not doing PCB assembly is money lol. JLCPCB charges so much for assembly - like they have the placement fee, then extended component fees for anything thats not in their basic library. its ridiculous how much it adds up.
+
+most of this stuff i can get way cheaper on taobao anyway. the ws2812b strips, that camera module - JLCPCB would probably charge double for those as "extended components". (I really don't have the proper experience in desiging PCBs to design these, anayways)
+
+yeah... it means more work soldering everything together, however for just one unit the savings are decent, probably looking at like $150+ through JLCPCB vs the $70 doing it myself, however JLCPCB does give you 5 PCBs. 
