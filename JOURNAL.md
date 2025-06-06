@@ -46,4 +46,6 @@ still needing cdn type images.
 
 ![Final design for big leg]()
 
+**Total time spent: 5h**
+
 
