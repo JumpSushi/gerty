@@ -39,11 +39,19 @@ Similar to yesterday, my main focus is still on the bottom half of this project 
 
 ![Final design for cup holder (10mm diameter)]()
 
+Final design with proper scaling for the cup holder (10mm diameter on circular section)
+
 ![Final design for side bar]()
+
+Final design with correct proportioning for the sidebar
 
 ![Final design for small leg]()
 
+Final design for the small leg 
+
 ![Final design for big leg]()
+
+Final design for big leg 
 
 **Total time spent: 5h**
 
