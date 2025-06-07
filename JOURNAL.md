@@ -81,6 +81,8 @@ During corespondence with Laij6, I realised that the notches on the top of my fr
 
 # June 8th, 2025 GenericVillain37:
 
-I spent a while trying to get the cupholder design of laij6 --- no no avail; I may add. I looked at the 100 most common food and beverages sold in the United States, which turned out to be the 100 most common food and beverages sold in the United States along with the 100 most common food and bevaages sold in the United States (the odd text in raw 3vs file), before finally figuring out how to download it. I discovered that there was, in fact, no peg on it (the thing I needed the dimensions for in order to design the hole on the side piece I have to make). I spent a couple seconds chiding my friend before getting on and adding it.
+I spent a while trying to get the cupholder design of laij6 --- no no avail; I may add. I looked at the 100 most common food and beverages sold in the United States, which turned out to be the 100 most common food and beverages sold in the United States along with the 100 most common food and bevaages sold in the United States (the odd text in raw 3vs file), before finally figuring out how to download it. I discovered that there was, in fact, no peg on it (the thing I needed the dimensions for in order to design the hole on the side piece I have to make). I spent a couple seconds chiding my friend before getting on and adding it. I was editing laij6's side box when I realised I had not added the holes onto my own design for the front board. I proceeded to discover that I had underestimated the size of the screen and therefore had wasted at least an hour yesterday on designing the cover for the screen. I fixed this in a similar, boring fashion to the day before. Note: it is currently 2:58AM and so I shall be going to bed shortly. Expect further updates.
+
+**Time so far: 3hrs**
 
 ![design with peg](https://i.ibb.co/M4JjB1C/Mywork8-GERTY20250608.png)
