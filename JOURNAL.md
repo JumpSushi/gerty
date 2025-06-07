@@ -77,6 +77,10 @@ During corespondence with Laij6, I realised that the notches on the top of my fr
 
 # June 5th, 2025 laij6:
 
+========
 
+# June 8th, 2025 GenericVillain37:
+
+I spent a while trying to get the cupholder design of laij6 --- no no avail; I may add. I looked at the 100 most common food and beverages sold in the United States, which turned out to be the 100 most common food and beverages sold in the United States along with the 100 most common food and bevaages sold in the United States (the odd text in raw 3vs file), before finally figuring out how to download it. I discovered that there was, in fact, no peg on it (the thing I needed the dimensions for in order to design the hole on the side piece I have to make). I spent a couple seconds chiding my friend before getting on and adding it.
 
 
