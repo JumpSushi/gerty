@@ -67,7 +67,16 @@ Final design for big leg
 
 **Total time spent: 5h**
 
+
+#June 7th, 2025 GenericVillain37:
+During corespondence with Laij6, I realied that the notches on the top of my front-face were too small --- half the required size. I have spent a bit fixing that as well as designing the coevr for the screen. Honestly it was quite an average procces; no actual issues but it still took a while. 
+
+**Time so far: 2hrs**
+
+========
+
 # June 5th, 2025 laij6:
+
 
 
 
