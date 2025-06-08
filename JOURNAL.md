@@ -4,7 +4,7 @@ author: "@JumpSushi, @laij6, @GenericVillain37"
 description: "A Recreation of 'GERTY' from the film 'Moon'"
 created_at: "2025-06-05"
 ---
-#June 5th, 2025 JumpSushi
+# June 5th, 2025 JumpSushi
 
 Mainly worked on the BOM and parts hunting, and as I've done many of these kinds of projects before with speakers and boost convertors, I chose some that I've used before. IP2312 for battery chraging mainly because it can supply up to 3A, instead of the commonly used TPS4056 (1A).
 
