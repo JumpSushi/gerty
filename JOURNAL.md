@@ -68,7 +68,7 @@ Final design for big leg
 **Total time spent: 5h**
 
 
-#June 7th, 2025 GenericVillain37:
+# June 7th, 2025 GenericVillain37:
 During corespondence with Laij6, I realised that the notches on the top of my front-face were too small --- half the required size. I have spent a bit fixing that as well as designing the cover for the screen. Honestly, it was quite an average procces; no actual issues but it still took a while. 
 
 **Time so far: 2hrs**
@@ -89,6 +89,8 @@ This is the design for the hand sizing redesign along with the added piece.
 I spent a while trying to get the cupholder design of laij6 --- no no avail; I may add. I looked at the 100 most common food and beverages sold in the United States, which turned out to be the 100 most common food and beverages sold in the United States along with the 100 most common food and bevaages sold in the United States (the odd text in raw 3vs files), before finally figuring out how to download it. I discovered that there was, in fact, no peg on it (the thing I needed the dimensions for in order to design the hole on the side piece I have to make). I spent a couple seconds chiding my friend before getting on and adding it. I was editing laij6's side box when I realised I had not added the holes onto my own design for the front board. I proceeded to discover that I had underestimated the size of the screen and therefore had wasted at least an hour yesterday on designing the cover for the screen. I fixed this in a similar, boring fashion to the day before. Note: it is currently 2:58AM and so I shall be going to bed shortly. Expect further updates.
 
 **Time so far: 3hrs**
+
+Happy Second June 8th! I woke up this morining at roughly 9:00 (six hours of sleep) before going downstairs for breakfast. (Very design-orientated diary here I know). After that, I started immediatley on design. I uploaded some files from last night before getting to the side board. I began designing but soon realised that it needed to be longer to accomodate the side bar (which I had tried to work on the night before but was unfortunately prevented by the strange alignment to the grid). 
 
 ![design with peg](https://i.ibb.co/M4JjB1C/Mywork8-GERTY20250608.png)
 
