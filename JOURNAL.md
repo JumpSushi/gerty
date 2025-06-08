@@ -6,25 +6,23 @@ created_at: "2025-06-05"
 ---
 #June 5th, 2025 JumpSushi
 
-Mainly worked on the BOM and parts hunting, and as I've done many of these kinds of projects before with speakers and boost convertors, I chose some that I've used before. IP2312 for battery chraging mainly because it can supply up to 3A, instead of the commonly used TPS4056 (1A) 
+Mainly worked on the BOM and parts hunting, and as I've done many of these kinds of projects before with speakers and boost convertors, I chose some that I've used before. IP2312 for battery chraging mainly because it can supply up to 3A, instead of the commonly used TPS4056 (1A).
 
-As for the Pi, I chose a Pi 3, as that's what I had laying around, and should be decently powerful for the task of playing some music and showing some pictures of smiley faces. /
+As for the Pi, I chose a Pi 3, as that's what I had laying around, and should be decently powerful for the task of playing some music and showing some pictures of smiley faces.
 
-For battery, I went with a 20000mAh battery, (two 10000mAh cells stacked together in parallel), which should give around ~10 Hours batt life assuming power draw of 2A, (pretty much worst case scenario)
+For battery, I went with a 20000mAh battery, (two 10000mAh cells stacked together in parallel), which should give around ~10 Hours batt life assuming power draw of 2A, (pretty much worst case scenario).
 
-/
-
-Two 5V Boost convertors used, just to even out the load a bit. (the ic identification on the boards have been scratched off, but it worked fine in previous applications). /
+Two 5V Boost convertors used, just to even out the load a bit. (the ic identification on the boards have been scratched off, but it worked fine in previous applications).
 
 For the small light from gerty near the top, I chose a WS2812B LED Lightstrip, as that's probably the cheapest and most common option for something like this.
-/
+
 The camera is an offbrand raspberry pi camera module, therefore its decently cheap and should work fine.
-/
 
-Heres a quick wiring diagram I drew up:
-![Wiring Diagram](https://hc-cdn.hel1.your-objectstorage.com/s/v3/f04d3f518c8f41d2216c4ae72a73d32464367516_screenshot_2025-06-08_at_8.21.11___pm.png)
+Here's a quick wiring diagram I drew up:
 
-I know its pretty much illegible, I'll create a better one online.
+[Wiring Diagram](https://hc-cdn.hel1.your-objectstorage.com/s/v3/f04d3f518c8f41d2216c4ae72a73d32464367516_screenshot_2025-06-08_at_8.21.11___pm.png)
+
+I know it's pretty much illegible, I'll create a better one online.
 
 Time taken: 1.5 Hours
 
