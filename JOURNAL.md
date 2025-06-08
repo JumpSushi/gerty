@@ -75,8 +75,13 @@ During corespondence with Laij6, I realised that the notches on the top of my fr
 
 ========
 
-# June 5th, 2025 laij6:
+# June 7th, 2025 laij6:
+Today, compared to previous days had a lot less work which i needed to get done. for today's designing activites i just started off by double checking the parts which i already designinged. and yes for more pain of redesigning i realized when comparing the hands to refrence images that the vertical lengh for the base rectangle was too short. previously i designed it thinking that i would leave around 5 or 10 cm on both above and below the rectangle so i had designined the hands with this in mind. and now after looking at the refrence images frmo the movie, this included the pain of low PPI when zooming into frames (bad lighting in many scenes also didnt really help with this). i saw that instead of there being empty space above and below the hands that it simply took up the full space. because of this i redesigned the hands to fully take the up space provided vertically (50mm). this didnt change the proportioning too much so i left the width the same. while look at the refrence screenshot i used for the hand redesign, i also saw that there is a bar around the top of the big leg meaning that i had another component to design. this was a reasonably quick process as there wasnt too much work to do that was alocated to me for this day. 
 
+![resizing change of the hands and the added on piece]()
+This is the design for the hand sizing redesign along with the added piece.
+
+**Total time spent: 45m**
 ========
 
 # June 8th, 2025 GenericVillain37:
@@ -86,3 +91,4 @@ I spent a while trying to get the cupholder design of laij6 --- no no avail; I m
 **Time so far: 3hrs**
 
 ![design with peg](https://i.ibb.co/M4JjB1C/Mywork8-GERTY20250608.png)
+Cup holder design but with the added peg
