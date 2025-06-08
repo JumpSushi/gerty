@@ -20,7 +20,7 @@ The camera is an offbrand raspberry pi camera module, therefore its decently che
 
 Here's a quick wiring diagram I drew up:
 
-[Wiring Diagram](https://hc-cdn.hel1.your-objectstorage.com/s/v3/f04d3f518c8f41d2216c4ae72a73d32464367516_screenshot_2025-06-08_at_8.21.11___pm.png)
+![Wiring Diagram](https://hc-cdn.hel1.your-objectstorage.com/s/v3/f04d3f518c8f41d2216c4ae72a73d32464367516_screenshot_2025-06-08_at_8.21.11___pm.png)
 
 I know it's pretty much illegible, I'll create a better one online.
 
