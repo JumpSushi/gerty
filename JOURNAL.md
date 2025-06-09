@@ -29,6 +29,8 @@ I know it's pretty much illegible, I'll create a better one online.
 # June 5th, 2025 GenericVillain37
 Today I began designing the main body for the robot. It is painful. I have a reference image, but the proportions are odd, and we need to work out how the Pi and camera are going to fit in before I finish those holes. The sizing for the camera module took me a good few minutes, but I think it works. I had the image up on my iPad so I could see it better.
 
+**Time so far: 2 hrs**
+
 # June 5th, 2025 laij6
 Today i started working on the bottom bit of the robot, this is the area underneath the main body, which generic villan is working on. After double checking the design about 20 minutes later, i realized some of the pieces were not the correct sizing as the part is meant to go inwards, and the panel meant to go above it had only been designed to the height instead of the length of the surface.
 
@@ -147,3 +149,4 @@ design for all three of the side parts.
 
 **Total time spent: 4h 30m**
 
+# June 8th, 2025 laij6:
