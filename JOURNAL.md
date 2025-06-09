@@ -150,3 +150,7 @@ design for all three of the side parts.
 **Total time spent: 4h 30m**
 
 # June 8th, 2025 laij6:
+
+# June 9th, 2025 GenericVillain37:
+
+Today was the day I cried. I logged-on at 6:35 in the morning and began immediately adding tabs/preg/notches to Laij6's designs --- CAN HE NOT JUST DO THEM HIMSELF?!?!? I spent the entire day prettey mucb doing this; separteing the files, attempting to format with dim-lines (often to no success) and adding notches. The diagonals especially were utter torcher --- seemingly endless decimals. I was free-handing the line on Techsoft and the jumps between the points were still too large. Eventually, I figured out that I could improve that tedious process by drawing a line from one side of the diagonal to the other, repeating the other way, shrinking them to the correct size, deleting the original line, using the 'rectangle on anyangle' tool along both of the points, puting a line from the end of the line to the perpendicular corner of the box, deleting the box, changing the length of the line to 5mm and finaly joining them together. This process sounds long when listed like this --- it was longer to do.
