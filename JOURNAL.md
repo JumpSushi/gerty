@@ -153,10 +153,17 @@ design for all three of the side parts.
 
 Today was the day I cried. I logged-on at 6:35 in the morning and began immediately adding tabs/preg/notches to Laij6's designs --- CAN HE NOT JUST DO THEM HIMSELF?!?!? I spent the entire day prettey mucb doing this; separating the files, attempting to format with dim-lines (often to no success) and adding notches. The diagonals especially were utter torcher --- seemingly endless decimals. I was free-handing the line on Techsoft and the jumps between the points were still too large. Eventually, I figured out that I could improve that tedious process by drawing a line from one side of the diagonal to the other, repeating the other way, shrinking them to the correct size, deleting the original line, using the 'rectangle on any angle' tool along both of the points, puting a line from the end of the line to the perpendicular corner of the box, deleting the box, changing the length of the line to 5mm and finaly joining them together. This process sounds long when listed like this --- it was longer to perform.
 
+Back piece attachment
+![Back piece 4](https://hc-cdn.hel1.your-objectstorage.com/s/v3/c0fb3a525efeb8620a0ad9c85108f390232f0c5c_image.png)
+
 **Total time spent: 5hrs 45mins**
 
 # June 9th, 2025 laij6:
-today i only had one major thing to do which was just make one last piece 
+Today, I only had one major thing to do, which was just to make one last piece for the front right section. This piece would be placed in the top middle of the large section on the back. The process was pretty simple for this piece with just slight proportioning annoyances for the bottom and top lines. The creation of this was pretty simple and didn't take much time at all.
+
+**Total time spent: 1h**
+
+
 
 # June 10th, 2025 GenericVillain37:
 
