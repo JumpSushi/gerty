@@ -172,3 +172,20 @@ Back piece attachment
 I feel weak. I feel tired. I ache all over. Today was the final day this working-week I am to experience the night before. Last night, I did rather little --- really just uploading a file and writing in here. The rest of the day, however, was spent on ADDING NOTCHES TO LAIJ6'S DESIGNS BECAUSE HE IS TOO LAZY TO DO IT HIMSELF. (Note. if you cannot already notice the pattern, much of this journal is just going to be me complaining about Laij6's chronic inablity to ADD NOTCHES.) I spent the time getting to school (6:35-7:10) the time from my arrival at school to its beginning (7:12-8:15), the free-time we were given in p1 (8:25-9:15) as well as some other time throughout the day and tonight equalling a few hours (3hrs for sake of argument). I spent the entire thing adding notches (save half-an-hour in CAD CAM Club). During that half-hour, I attempted to laser-cut a design made on here only for it to prove unssuccessful --- the laser actually charring the wood around the cut whilst not cutting the line required. I even got a DT-teacher to help --- to no avail, I may add. He believes the root-cause of this issue is a fault in the lense: possibly dirt or it simply coming loose. I have been reading through Laij6's journals and have noted that the majority of problems he faced are concerning scaling/sizing. I cannot see how this can be a problem --- an incredibly simple solution simply being to put an image of GERTY onto Techsoft 2D, adjusting it to a known measurement --- of which there are ample --- and drawing any required lines using the 'dim lines' tool. 
 
 **Total time spent: 5hrs 20mins**
+
+
+# June 11th, 2025 laij6:
+
+after all the "requests" (more like complaints) i started to go back over the designs which i have already made and added notches to them. to do this i worked off a list which generic villan sent me of what he has left to do and also assigned me some things to work on. The two designs that I had to add designs to were the bottom short and long parts. Both of these parts are quite simplistic, with minimal sides and individual components. Though this task is time-consuming, it is pretty simple and mostly tedious. Just when starting to add the notches, I had a slight mistake with the orientation of one part. As I had only just started, I just closed and reopened the file to start off from a fresh page. I figured that this would be easier than deleting the notches and redrawing the lines. This process took a bit to learn, but over just a small learning curve, I found it pretty easy. I started off adding notches to the bottom short part, then moving on to the bottom long part, with the short part taking about 30 minutes and the long part taking about 20. I think at this point we have everything designed with notches added onto them.
+
+These are the two parts which I added notches to:
+
+bottom short piece
+
+![bottom short](https://hc-cdn.hel1.your-objectstorage.com/s/v3/50da91c94435dcdff2eb768bc0599d36c297898c_image.png)
+
+bottom long piece
+
+![bottom long](https://hc-cdn.hel1.your-objectstorage.com/s/v3/1c1b5d1c96ad28d1dd2c0f88e8bfb4d1c9a86bfc_image.png)
+
+**Total time spent: 50m**
