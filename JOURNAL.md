@@ -128,7 +128,7 @@ I am about to have seen the begining and the end of today: should I be worried? 
 
 ![design with peg](https://i.ibb.co/M4JjB1C/Mywork8-GERTY20250608.png)
 
-Cup holder design but with the added peg. *GenericVillain that night* THAT WAS TODAT?!?
+Cup holder design but with the added peg. *GenericVillain that night* THAT WAS TODAY?!?
 
 # June 8th, 2025 laij6:
 So well, today was the absolute opposite of yesterday. So this morning, over a text chat with generic villan we had slight communication issues earlier on, and I thought that he was also working on designing the giant piece on the right of Gerty when looking front on, and found out he wasn't. Because we had nobody working on that major section, I decided to create that bit, and generic villan offered to create the part where he is held up by something and the connecting area to it, so I am leaving that to him. communication issues part inf! 
