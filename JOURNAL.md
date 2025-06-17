@@ -189,3 +189,9 @@ bottom long piece
 ![bottom long](https://hc-cdn.hel1.your-objectstorage.com/s/v3/1c1b5d1c96ad28d1dd2c0f88e8bfb4d1c9a86bfc_image.png)
 
 **Total time spent: 50m**
+
+# June 17th, 2025 GenericVillain37:
+
+This is more a compilation of the tiny little tasks I completed over the weekend alongside the major task from today than anything focused. I started designing the top box only to discover that Laij6, for all his talk about scaling, had made a major error on the height of the mains section of the vent box. I fixed this issue but it seemed to demotivate me; possibly a reminder of the effort I needed for the 'Frount [sic] right all three pieces' (of which the vent box was a part). We had a chat in the group and I have been instructed to add images soon --- they are coming, I promise. Anyway, I have started converting the schematics we posted on here into designs for the laser-cutter, removing the measurements and putting the shapes closer together. In CAD CAM Club afterschool, we began cutting; making the small leg and the screen-cage. Due to technical difficulties with the laser-cutter as well as availability concerns, we were forced to switch to cerboard from wood for the main body. We shall still have to use some wood, as the neither the battrey supports nor the main-body frame nor even the cupholder could function as carboard. Aesthetically, however, the cardboard shall not make much of a difference --- us lready planning to spray-paint it white/grey/silver.
+
+**Total time spent: 4 hrs**
