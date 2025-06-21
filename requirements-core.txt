@@ -1,0 +1,19 @@
+# Core dependencies (required)
+opencv-python>=4.8.0
+numpy>=1.24.0
+requests>=2.31.0
+
+# Testing dependencies
+pytest>=7.4.0
+pytest-mock>=3.12.0
+
+# Speech/Audio dependencies (optional - will be mocked if not available)
+# Uncomment these lines if your system supports them:
+# pyaudio>=0.2.11
+# pvporcupine>=3.0.0
+# SpeechRecognition>=3.10.0
+
+# Alternative: Install audio dependencies separately
+# pip install pyaudio  # May require system audio libraries
+# pip install pvporcupine  # Requires Porcupine account
+# pip install SpeechRecognition
