@@ -140,7 +140,7 @@ class GERTYSimpleVoice:
             
             # Use your actual access key
             self.porcupine = pvporcupine.create(
-                access_key="UCYx0gb2QXm8bIoLa5JmCaSRiBwvL6UHUyArrY3EFJ4C1xyb8Mo8SA==",
+                access_key="i hate claude",
                 keywords=['Hey GERTY']
             )
             
